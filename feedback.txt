@@ -1,0 +1,15 @@
+Feedback for student: mark hany
+Course: Digital Logic Design
+Rating: 4/5
+Comments: good
+
+Feedback for student: mark hany
+Course: Database
+Rating: 4/5
+Comments: notgood
+
+Feedback for student: RAMY
+Course: Database
+Rating: 2/5
+Comments: bad student
+

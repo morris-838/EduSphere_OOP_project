@@ -1,0 +1,6 @@
+1,Object Oriented Programming,java learning course,1
+2,Database,sql,1
+3,Linear Algebra,numbers learning,1
+4,Probability & Statistics,probabilities and stuff,1
+5,Introduction to Networks,internet stuff,1
+6,Digital Logic Design,gates and stuff,1

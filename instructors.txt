@@ -1,0 +1,6 @@
+1,John Doe,john.doe@example.com,password
+2,dr.diaa,diaa.com,diaapass
+3,assal.dr,assal.com,assalpass
+4,dr.emad abdallh,emad.com,emadpass
+5,karim hassan,karim m4 hassan awy.com,karim m4 faker
+6,emad,eemad@gamil.com,456
